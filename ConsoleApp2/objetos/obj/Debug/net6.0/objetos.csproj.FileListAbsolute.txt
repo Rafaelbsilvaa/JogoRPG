@@ -1,0 +1,12 @@
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\bin\Debug\net6.0\objetos.deps.json
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\bin\Debug\net6.0\objetos.dll
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\bin\Debug\net6.0\objetos.pdb
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\objetos.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\objetos.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\objetos.AssemblyInfo.cs
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\objetos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\objetos.dll
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\refint\objetos.dll
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\objetos.pdb
+C:\Users\rafae\Desktop\JOGOS\ConsoleApp2\objetos\obj\Debug\net6.0\ref\objetos.dll

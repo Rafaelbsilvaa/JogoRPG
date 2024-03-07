@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
       "projectName": "Jogorpg",
-      "projectPath": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
+      "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\objetos\\objetos.csproj": {
-              "projectPath": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\objetos\\objetos.csproj"
+            "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\objetos.csproj": {
+              "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\objetos.csproj"
             }
           }
         }

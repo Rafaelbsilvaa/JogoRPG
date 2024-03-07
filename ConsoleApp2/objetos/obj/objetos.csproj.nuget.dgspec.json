@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\objetos\\objetos.csproj": {}
+    "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\objetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\objetos\\objetos.csproj": {
+    "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\objetos\\objetos.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\objetos.csproj",
         "projectName": "objetos",
-        "projectPath": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\objetos\\objetos.csproj",
+        "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\objetos.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\objetos\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,6 +6,7 @@
         public int Nivel { get; set; }
         public int Dano { get; set; }
         public int Cura { get; set; }
+        public int Vida { get; set; }
 
         public jogador(string nome,int dano)
         {

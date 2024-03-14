@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = objetos
-build_property.ProjectDir = C:\Users\rafae\Documents\GitHub\JogoRPG\ConsoleApp2\objetos\
+build_property.ProjectDir = C:\Users\wever\Documents\GitHub\JogoRPG\ConsoleApp2\objetos\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

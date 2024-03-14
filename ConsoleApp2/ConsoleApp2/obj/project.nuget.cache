@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dp8gCdigIgl0TjjE84d6/Q3lwDvYsZFPBBAV5wOsWY3rEY8tSAqY3Jo+/S0ZTc4KtWRBMh/Pvv53c04Xm+7RBA==",
+  "dgSpecHash": "4Z4WGsa4wd5yWKWyGlQwlH2bz7ZvWvZxbASPlmX3jSglo1a1ygDY44XzpSf7TE2XosY0g9IbsaL1JAAwVk1NAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\wever\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

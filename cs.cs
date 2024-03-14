@@ -23,5 +23,6 @@ class program
     public class casa : construcao{
 
         public string Quartos;
+        public string sala;
 }
 }

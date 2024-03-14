@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HVCRFnUilkr4DBpX7SygtKWyuHEZY12cjzmU672wDf5NST2VMvi9gDcVzE6p65jY1I29IAR9Y0SMfSe9WLSDIA==",
+  "dgSpecHash": "esr1heKeZphQUAU0tuMYWT6OVG6IJwxpFDWl81dO7Wvbn8TqlaP5+kvEfGA9UVylPsf9UHhAgVxLB8qQdE6iMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\objetos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\wever\\Documents\\GitHub\\JogoRPG\\ConsoleApp2\\objetos\\objetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\wever\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
